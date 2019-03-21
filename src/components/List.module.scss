@@ -1,0 +1,24 @@
+.list{
+  grid-area: main;
+  margin: 0 auto;
+  padding: 30px;
+  min-width: 320px;
+}
+
+.item{
+  margin-bottom: 1em;
+  padding: 12px;
+  background-color: #ececec;
+  box-shadow: 2px 4px 14px #4848481c;
+}
+
+.name{
+  color: #27425d;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.description{
+  color: #9a98aa;
+  font-size: 14px;
+}
